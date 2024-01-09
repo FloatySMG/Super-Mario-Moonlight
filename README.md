@@ -32,3 +32,7 @@ anyways good day!!
 
 # Testimonials
 uwu
+
+omg we should only text on a notepad doc that would be so funny!!
+
+anyways how is everyone!!!

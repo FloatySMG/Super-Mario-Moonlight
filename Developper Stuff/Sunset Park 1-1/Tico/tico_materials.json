@@ -1,0 +1,1581 @@
+[
+  {
+    "Name": "Body1_v",
+    "Flag": 1,
+    "CullMode": "None",
+    "ZCompLoc": true,
+    "Dither": false,
+    "TextureNames": [
+      "TicoBody:0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IndTexEntry": {
+      "HasLookup": false,
+      "IndTexStageNum": 0,
+      "TevOrders": [
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        },
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        },
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        },
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        }
+      ],
+      "Matrices": [
+        {
+          "Matrix": [
+            [
+              0.5,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.5,
+              0.0
+            ]
+          ],
+          "Exponent": 1
+        },
+        {
+          "Matrix": [
+            [
+              0.5,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.5,
+              0.0
+            ]
+          ],
+          "Exponent": 1
+        },
+        {
+          "Matrix": [
+            [
+              0.5,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.5,
+              0.0
+            ]
+          ],
+          "Exponent": 1
+        }
+      ],
+      "Scales": [
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        },
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        },
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        },
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        }
+      ],
+      "TevStages": [
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        }
+      ]
+    },
+    "MaterialColors": [
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      }
+    ],
+    "ChannelControls": [
+      {
+        "Enable": false,
+        "MaterialSrcColor": "Vertex",
+        "LitMask": "None",
+        "DiffuseFunction": "Clamp",
+        "AttenuationFunction": "Spec",
+        "AmbientSrcColor": "Vertex"
+      },
+      {
+        "Enable": true,
+        "MaterialSrcColor": "Register",
+        "LitMask": "Light2",
+        "DiffuseFunction": "Signed",
+        "AttenuationFunction": "Spec",
+        "AmbientSrcColor": "Register"
+      },
+      {
+        "Enable": true,
+        "MaterialSrcColor": "Register",
+        "LitMask": "None",
+        "DiffuseFunction": "Signed",
+        "AttenuationFunction": "None_0",
+        "AmbientSrcColor": "Register"
+      },
+      {
+        "Enable": false,
+        "MaterialSrcColor": "Register",
+        "LitMask": "None",
+        "DiffuseFunction": "None",
+        "AttenuationFunction": "None_2",
+        "AmbientSrcColor": "Register"
+      }
+    ],
+    "AmbientColors": [
+      {
+        "R": 0.5019608,
+        "G": 0.5019608,
+        "B": 0.5019608,
+        "A": 0.5019608
+      },
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      }
+    ],
+    "LightingColors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "TexCoord1Gens": [
+      {
+        "Type": "Matrix2x4",
+        "Source": "Tex0",
+        "TexMatrixSource": "Identity"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "PostTexCoordGens": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "TexMatrix1": [
+      {
+        "Projection": "Matrix2x4",
+        "Type": 0,
+        "EffectTranslation": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Scale": [
+          1.0,
+          1.0
+        ],
+        "Rotation": 0.0,
+        "Translation": [
+          0.0,
+          0.0
+        ],
+        "ProjectionMatrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "PostTexMatrix": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "TevOrders": [
+      {
+        "TexCoord": "TexCoord0",
+        "TexMap": "TexMap0",
+        "ChannelId": "Color0A0"
+      },
+      {
+        "TexCoord": "Null",
+        "TexMap": "Null",
+        "ChannelId": "Color0A0"
+      },
+      {
+        "TexCoord": "TexCoord0",
+        "TexMap": "TexMap0",
+        "ChannelId": "Color0A0"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "ColorSels": [
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_1",
+      "KCSel_1",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0"
+    ],
+    "AlphaSels": [
+      "KASel_1_4",
+      "KASel_1_4",
+      "KASel_K0_A",
+      "KASel_1",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A"
+    ],
+    "TevColors": [
+      {
+        "R": 0.05490196,
+        "G": 0.007843138,
+        "B": -0.419607848,
+        "A": -0.396078438
+      },
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      },
+      {
+        "R": 3.21960783,
+        "G": 3.21960783,
+        "B": 3.21960783,
+        "A": 1.0
+      },
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      }
+    ],
+    "KonstColors": [
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      }
+    ],
+    "TevStages": [
+      {
+        "ColorInA": "C1",
+        "ColorInB": "TexColor",
+        "ColorInC": "RasColor",
+        "ColorInD": "C0",
+        "ColorOp": "Add",
+        "ColorBias": "Zero",
+        "ColorScale": "Scale_1",
+        "ColorClamp": true,
+        "ColorRegId": "TevPrev",
+        "AlphaInA": "TexAlpha",
+        "AlphaInB": "Konst",
+        "AlphaInC": "RasAlpha",
+        "AlphaInD": "A0",
+        "AlphaOp": "Add",
+        "AlphaBias": "Zero",
+        "AlphaScale": "Scale_1",
+        "AlphaClamp": true,
+        "AlphaRegId": "TevPrev"
+      },
+      {
+        "ColorInA": "AlphaPrev",
+        "ColorInB": "RasColor",
+        "ColorInC": "AlphaPrev",
+        "ColorInD": "ColorPrev",
+        "ColorOp": "Add",
+        "ColorBias": "Zero",
+        "ColorScale": "Scale_4",
+        "ColorClamp": true,
+        "ColorRegId": "TevPrev",
+        "AlphaInA": "Zero",
+        "AlphaInB": "Konst",
+        "AlphaInC": "RasAlpha",
+        "AlphaInD": "A0",
+        "AlphaOp": "Add",
+        "AlphaBias": "Zero",
+        "AlphaScale": "Scale_2",
+        "AlphaClamp": true,
+        "AlphaRegId": "TevPrev"
+      },
+      {
+        "ColorInA": "C2",
+        "ColorInB": "ColorPrev",
+        "ColorInC": "ColorPrev",
+        "ColorInD": "Zero",
+        "ColorOp": "Add",
+        "ColorBias": "Zero",
+        "ColorScale": "Scale_1",
+        "ColorClamp": true,
+        "ColorRegId": "TevPrev",
+        "AlphaInA": "Zero",
+        "AlphaInB": "Zero",
+        "AlphaInC": "Zero",
+        "AlphaInD": "Zero",
+        "AlphaOp": "Add",
+        "AlphaBias": "Zero",
+        "AlphaScale": "Scale_1",
+        "AlphaClamp": false,
+        "AlphaRegId": "TevPrev"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SwapModes": [
+      {
+        "RasSel": 0,
+        "TexSel": 0
+      },
+      {
+        "RasSel": 0,
+        "TexSel": 0
+      },
+      {
+        "RasSel": 0,
+        "TexSel": 0
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SwapTables": [
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "FogInfo": {
+      "Type": 0,
+      "Enable": false,
+      "Center": 0,
+      "StartZ": 0.0,
+      "EndZ": 0.0,
+      "NearZ": 0.0,
+      "FarZ": 0.0,
+      "Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      "RangeAdjustmentTable": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "AlphCompare": {
+      "Comp0": "Always",
+      "Reference0": 0,
+      "Operation": "Or",
+      "Comp1": "Always",
+      "Reference1": 0
+    },
+    "BMode": {
+      "Type": "None",
+      "SourceFact": "One",
+      "DestinationFact": "Zero",
+      "Operation": "Copy"
+    },
+    "ZMode": {
+      "Enable": true,
+      "Function": "LEqual",
+      "UpdateEnable": true
+    },
+    "NBTScale": {
+      "Unknown1": 0,
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "Name": "Eye1_v",
+    "Flag": 1,
+    "CullMode": "Back",
+    "ZCompLoc": true,
+    "Dither": false,
+    "TextureNames": [
+      "TicoEye:0",
+      "Env00:0",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "IndTexEntry": {
+      "HasLookup": false,
+      "IndTexStageNum": 0,
+      "TevOrders": [
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        },
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        },
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        },
+        {
+          "TexCoord": "Null",
+          "TexMap": "Null"
+        }
+      ],
+      "Matrices": [
+        {
+          "Matrix": [
+            [
+              0.5,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.5,
+              0.0
+            ]
+          ],
+          "Exponent": 1
+        },
+        {
+          "Matrix": [
+            [
+              0.5,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.5,
+              0.0
+            ]
+          ],
+          "Exponent": 1
+        },
+        {
+          "Matrix": [
+            [
+              0.5,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.5,
+              0.0
+            ]
+          ],
+          "Exponent": 1
+        }
+      ],
+      "Scales": [
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        },
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        },
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        },
+        {
+          "ScaleS": "ITS_1",
+          "ScaleT": "ITS_1"
+        }
+      ],
+      "TevStages": [
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        },
+        {
+          "TevStage": "TevStage0",
+          "IndTexFormat": "ITF_8",
+          "IndTexBiasSel": "None",
+          "IndTexMtxId": "ITM_OFF",
+          "IndTexWrapS": "ITW_OFF",
+          "IndTexWrapT": "ITW_OFF",
+          "AddPrev": false,
+          "UtcLod": false,
+          "AlphaSel": "ITBA_OFF"
+        }
+      ]
+    },
+    "MaterialColors": [
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      }
+    ],
+    "ChannelControls": [
+      {
+        "Enable": true,
+        "MaterialSrcColor": "Vertex",
+        "LitMask": 3,
+        "DiffuseFunction": "Clamp",
+        "AttenuationFunction": "Spec",
+        "AmbientSrcColor": "Register"
+      },
+      {
+        "Enable": true,
+        "MaterialSrcColor": "Register",
+        "LitMask": "Light2",
+        "DiffuseFunction": "Signed",
+        "AttenuationFunction": "Spec",
+        "AmbientSrcColor": "Register"
+      },
+      {
+        "Enable": true,
+        "MaterialSrcColor": "Register",
+        "LitMask": "None",
+        "DiffuseFunction": "Signed",
+        "AttenuationFunction": "None_0",
+        "AmbientSrcColor": "Register"
+      },
+      {
+        "Enable": false,
+        "MaterialSrcColor": "Register",
+        "LitMask": "None",
+        "DiffuseFunction": "None",
+        "AttenuationFunction": "None_2",
+        "AmbientSrcColor": "Register"
+      }
+    ],
+    "AmbientColors": [
+      {
+        "R": 0.5019608,
+        "G": 0.5019608,
+        "B": 0.5019608,
+        "A": 0.5019608
+      },
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      }
+    ],
+    "LightingColors": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "TexCoord1Gens": [
+      {
+        "Type": "Matrix2x4",
+        "Source": "Tex0",
+        "TexMatrixSource": "Identity"
+      },
+      {
+        "Type": "Matrix2x4",
+        "Source": "Normal",
+        "TexMatrixSource": "TexMtx1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "PostTexCoordGens": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "TexMatrix1": [
+      {
+        "Projection": "Matrix2x4",
+        "Type": 0,
+        "EffectTranslation": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Scale": [
+          1.0,
+          1.0
+        ],
+        "Rotation": 0.0,
+        "Translation": [
+          0.0,
+          0.0
+        ],
+        "ProjectionMatrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      {
+        "Projection": "Matrix2x4",
+        "Type": 6,
+        "EffectTranslation": [
+          0.5,
+          0.5,
+          0.5
+        ],
+        "Scale": [
+          0.25,
+          1.1
+        ],
+        "Rotation": 0.0,
+        "Translation": [
+          0.04,
+          0.2
+        ],
+        "ProjectionMatrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "PostTexMatrix": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "TevOrders": [
+      {
+        "TexCoord": "TexCoord0",
+        "TexMap": "TexMap0",
+        "ChannelId": "Color0A0"
+      },
+      {
+        "TexCoord": "Null",
+        "TexMap": "Null",
+        "ChannelId": "Color0A0"
+      },
+      {
+        "TexCoord": "TexCoord1",
+        "TexMap": "TexMap1",
+        "ChannelId": "Color0A0"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "ColorSels": [
+      "KCSel_K0",
+      "KCSel_1_8",
+      "KCSel_1",
+      "KCSel_1",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0",
+      "KCSel_K0"
+    ],
+    "AlphaSels": [
+      "KASel_1_8",
+      "KASel_1_4",
+      "KASel_K0_A",
+      "KASel_1",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A",
+      "KASel_K0_A"
+    ],
+    "TevColors": [
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": -0.270588249
+      },
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      },
+      {
+        "R": 4.01176453,
+        "G": 4.01176453,
+        "B": 4.01176453,
+        "A": 1.0
+      },
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      }
+    ],
+    "KonstColors": [
+      {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      }
+    ],
+    "TevStages": [
+      {
+        "ColorInA": "C1",
+        "ColorInB": "TexColor",
+        "ColorInC": "RasColor",
+        "ColorInD": "C0",
+        "ColorOp": "Add",
+        "ColorBias": "Zero",
+        "ColorScale": "Scale_1",
+        "ColorClamp": true,
+        "ColorRegId": "TevPrev",
+        "AlphaInA": "TexAlpha",
+        "AlphaInB": "Konst",
+        "AlphaInC": "RasAlpha",
+        "AlphaInD": "A0",
+        "AlphaOp": "Add",
+        "AlphaBias": "Zero",
+        "AlphaScale": "Scale_2",
+        "AlphaClamp": true,
+        "AlphaRegId": "TevPrev"
+      },
+      {
+        "ColorInA": "Zero",
+        "ColorInB": "RasColor",
+        "ColorInC": "AlphaPrev",
+        "ColorInD": "ColorPrev",
+        "ColorOp": "Add",
+        "ColorBias": "Zero",
+        "ColorScale": "Scale_2",
+        "ColorClamp": true,
+        "ColorRegId": "TevPrev",
+        "AlphaInA": "Zero",
+        "AlphaInB": "Konst",
+        "AlphaInC": "RasAlpha",
+        "AlphaInD": "A0",
+        "AlphaOp": "Add",
+        "AlphaBias": "Zero",
+        "AlphaScale": "Scale_2",
+        "AlphaClamp": true,
+        "AlphaRegId": "TevPrev"
+      },
+      {
+        "ColorInA": "Zero",
+        "ColorInB": "TexColor",
+        "ColorInC": "RasColor",
+        "ColorInD": "ColorPrev",
+        "ColorOp": "Add",
+        "ColorBias": "Zero",
+        "ColorScale": "Scale_1",
+        "ColorClamp": true,
+        "ColorRegId": "TevPrev",
+        "AlphaInA": "AlphaPrev",
+        "AlphaInB": "Zero",
+        "AlphaInC": "Zero",
+        "AlphaInD": "Zero",
+        "AlphaOp": "Add",
+        "AlphaBias": "Zero",
+        "AlphaScale": "Scale_1",
+        "AlphaClamp": false,
+        "AlphaRegId": "TevPrev"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SwapModes": [
+      {
+        "RasSel": 0,
+        "TexSel": 0
+      },
+      {
+        "RasSel": 0,
+        "TexSel": 0
+      },
+      {
+        "RasSel": 0,
+        "TexSel": 0
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "SwapTables": [
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      {
+        "R": 0,
+        "G": 1,
+        "B": 2,
+        "A": 3
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "FogInfo": {
+      "Type": 0,
+      "Enable": false,
+      "Center": 0,
+      "StartZ": 0.0,
+      "EndZ": 0.0,
+      "NearZ": 0.0,
+      "FarZ": 0.0,
+      "Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0
+      },
+      "RangeAdjustmentTable": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "AlphCompare": {
+      "Comp0": "Always",
+      "Reference0": 0,
+      "Operation": "Or",
+      "Comp1": "Always",
+      "Reference1": 0
+    },
+    "BMode": {
+      "Type": "None",
+      "SourceFact": "One",
+      "DestinationFact": "Zero",
+      "Operation": "Copy"
+    },
+    "ZMode": {
+      "Enable": true,
+      "Function": "LEqual",
+      "UpdateEnable": true
+    },
+    "NBTScale": {
+      "Unknown1": 0,
+      "Scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+]

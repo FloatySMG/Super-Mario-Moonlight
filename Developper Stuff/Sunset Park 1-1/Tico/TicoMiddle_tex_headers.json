@@ -1,0 +1,53 @@
+[
+  {
+    "Name": "TicoEye",
+    "Format": "CMPR",
+    "AlphaSetting": 1,
+    "WrapS": "Repeat",
+    "WrapT": "Repeat",
+    "PaletteFormat": "IA8",
+    "MipMap": 0,
+    "EdgeLOD": false,
+    "BiasClamp": false,
+    "MaxAniso": 0,
+    "MinFilter": "Linear",
+    "MagFilter": "Linear",
+    "MinLOD": 0.0,
+    "MaxLOD": 0.0,
+    "LodBias": 0.0
+  },
+  {
+    "Name": "Env00",
+    "Format": "I8",
+    "AlphaSetting": 2,
+    "WrapS": "ClampToEdge",
+    "WrapT": "ClampToEdge",
+    "PaletteFormat": "IA8",
+    "MipMap": 0,
+    "EdgeLOD": false,
+    "BiasClamp": false,
+    "MaxAniso": 0,
+    "MinFilter": "Linear",
+    "MagFilter": "Linear",
+    "MinLOD": 0.0,
+    "MaxLOD": 0.0,
+    "LodBias": 0.0
+  },
+  {
+    "Name": "TicoBody",
+    "Format": "CMPR",
+    "AlphaSetting": 1,
+    "WrapS": "Repeat",
+    "WrapT": "Repeat",
+    "PaletteFormat": "IA8",
+    "MipMap": 0,
+    "EdgeLOD": false,
+    "BiasClamp": false,
+    "MaxAniso": 0,
+    "MinFilter": "Linear",
+    "MagFilter": "Linear",
+    "MinLOD": 0.0,
+    "MaxLOD": 0.0,
+    "LodBias": 0.0
+  }
+]
